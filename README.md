@@ -6,6 +6,10 @@ Built by [Diego Zuluaga](https://github.com/dzuluaga) — Solution Architect at 
 
 > Nebius.Build SF Hackathon 2026 | Problem Statement #1: Edge Inference & Agents
 
+[![Demo Video](https://img.youtube.com/vi/8LoCuBzQgzU/maxresdefault.jpg)](https://youtu.be/8LoCuBzQgzU)
+
+**[Watch the Demo Video](https://youtu.be/8LoCuBzQgzU)**
+
 ---
 
 ## What is AgentCommerce?
