@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect x="4" y="4" width="192" height="192" rx="16" ry="16" fill="#1e293b"/>
+  <!-- Sport watch -->
+  <g stroke="#eab308" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Watch face (circle) -->
+    <circle cx="100" cy="95" r="38"/>
+    <!-- Inner bezel -->
+    <circle cx="100" cy="95" r="32"/>
+    <!-- Top band -->
+    <path d="M82 58 L80 28 Q80 22 86 22 L114 22 Q120 22 120 28 L118 58"/>
+    <!-- Bottom band -->
+    <path d="M82 132 L80 160 Q80 166 86 166 L114 166 Q120 166 120 160 L118 132"/>
+    <!-- Band holes on top -->
+    <circle cx="100" cy="34" r="2"/>
+    <circle cx="100" cy="44" r="2"/>
+    <!-- Band holes on bottom -->
+    <circle cx="100" cy="146" r="2"/>
+    <circle cx="100" cy="156" r="2"/>
+    <!-- Side buttons -->
+    <line x1="138" y1="82" x2="145" y2="82"/>
+    <line x1="138" y1="95" x2="147" y2="95"/>
+    <line x1="138" y1="108" x2="145" y2="108"/>
+    <!-- Watch face content - time -->
+    <text x="100" y="92" text-anchor="middle" fill="#eab308" font-family="system-ui, sans-serif" font-size="16" font-weight="700" stroke="none">12:45</text>
+    <!-- Heart rate icon -->
+    <path d="M90 104 Q90 100 94 100 Q98 100 98 104 Q98 100 102 100 Q106 100 106 104 Q106 110 98 115 Q90 110 90 104"/>
+    <text x="112" y="112" text-anchor="start" fill="#eab308" font-family="system-ui, sans-serif" font-size="8" stroke="none">142</text>
+  </g>
+  <text x="100" y="186" text-anchor="middle" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12" font-weight="500">Garmin Watch</text>
+</svg>

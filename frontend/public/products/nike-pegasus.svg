@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect x="4" y="4" width="192" height="192" rx="16" ry="16" fill="#1e293b"/>
+  <!-- Running shoe -->
+  <g stroke="#f97316" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Sole -->
+    <path d="M40 130 Q45 135 55 136 L145 136 Q155 136 160 130 L162 126 Q163 122 158 120 L50 120 Q42 120 40 126 Z"/>
+    <!-- Upper shoe body -->
+    <path d="M50 120 Q48 105 55 95 L80 80 Q90 75 100 78 L140 90 Q155 95 158 120"/>
+    <!-- Swoosh -->
+    <path d="M60 115 Q90 95 130 105 Q140 108 145 112"/>
+    <!-- Collar -->
+    <path d="M55 95 Q58 88 68 85 L80 80"/>
+    <!-- Lace area -->
+    <line x1="75" y1="90" x2="85" y2="85"/>
+    <line x1="85" y1="92" x2="95" y2="87"/>
+    <line x1="95" y1="95" x2="105" y2="90"/>
+  </g>
+  <text x="100" y="170" text-anchor="middle" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12" font-weight="500">Nike Pegasus</text>
+</svg>

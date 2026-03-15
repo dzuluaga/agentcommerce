@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect x="4" y="4" width="192" height="192" rx="16" ry="16" fill="#1e293b"/>
+  <!-- Puffer jacket -->
+  <g stroke="#a855f7" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Body -->
+    <path d="M70 55 Q75 48 85 45 L100 42 L115 45 Q125 48 130 55"/>
+    <!-- Shoulders and sleeves -->
+    <path d="M70 55 L55 65 L45 95 L50 130 L60 132"/>
+    <path d="M130 55 L145 65 L155 95 L150 130 L140 132"/>
+    <!-- Body sides -->
+    <path d="M70 55 L68 132 Q68 140 76 142 L100 144 L124 142 Q132 140 132 132 L130 55"/>
+    <!-- Zipper -->
+    <line x1="100" y1="45" x2="100" y2="144"/>
+    <!-- Puff lines (horizontal quilting) -->
+    <path d="M68 70 Q84 75 100 70 Q116 65 132 70"/>
+    <path d="M66 88 Q83 93 100 88 Q117 83 134 88"/>
+    <path d="M64 106 Q82 111 100 106 Q118 101 136 106"/>
+    <path d="M62 124 Q81 129 100 124 Q119 119 138 124"/>
+    <!-- Sleeve puff lines -->
+    <path d="M48 80 L58 78"/>
+    <path d="M47 100 L58 98"/>
+    <path d="M152 80 L142 78"/>
+    <path d="M153 100 L142 98"/>
+  </g>
+  <text x="100" y="172" text-anchor="middle" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" font-weight="500">Patagonia Nano Puff</text>
+</svg>

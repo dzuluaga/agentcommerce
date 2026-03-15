@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect x="4" y="4" width="192" height="192" rx="16" ry="16" fill="#1e293b"/>
+  <!-- Wireless earbuds -->
+  <g stroke="#f97316" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left earbud -->
+    <circle cx="68" cy="80" r="16"/>
+    <circle cx="68" cy="80" r="8"/>
+    <!-- Left earbud stem -->
+    <path d="M62 95 L60 115 Q60 120 64 120 L72 120 Q76 120 76 115 L74 95"/>
+    <!-- Left ear tip -->
+    <path d="M58 68 Q55 62 58 58"/>
+    <path d="M78 68 Q81 62 78 58"/>
+    <!-- Right earbud -->
+    <circle cx="132" cy="80" r="16"/>
+    <circle cx="132" cy="80" r="8"/>
+    <!-- Right earbud stem -->
+    <path d="M126 95 L124 115 Q124 120 128 120 L136 120 Q140 120 140 115 L138 95"/>
+    <!-- Right ear tip -->
+    <path d="M122 68 Q119 62 122 58"/>
+    <path d="M142 68 Q145 62 142 58"/>
+    <!-- Sound waves from left -->
+    <path d="M52 74 Q46 80 52 86" stroke-width="2"/>
+    <path d="M46 70 Q38 80 46 90" stroke-width="2"/>
+    <!-- Sound waves from right -->
+    <path d="M148 74 Q154 80 148 86" stroke-width="2"/>
+    <path d="M154 70 Q162 80 154 90" stroke-width="2"/>
+  </g>
+  <text x="100" y="160" text-anchor="middle" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12" font-weight="500">JBL Earbuds</text>
+</svg>

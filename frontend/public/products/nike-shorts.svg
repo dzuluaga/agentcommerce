@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect x="4" y="4" width="192" height="192" rx="16" ry="16" fill="#1e293b"/>
+  <!-- Athletic shorts -->
+  <g stroke="#f97316" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Waistband -->
+    <path d="M55 55 Q100 50 145 55"/>
+    <path d="M55 62 Q100 57 145 62"/>
+    <!-- Left leg opening -->
+    <path d="M55 62 L48 105 Q48 115 58 118 L85 118 Q90 116 90 110 L100 72"/>
+    <!-- Right leg opening -->
+    <path d="M145 62 L152 105 Q152 115 142 118 L115 118 Q110 116 110 110 L100 72"/>
+    <!-- Center seam -->
+    <line x1="100" y1="62" x2="100" y2="72"/>
+    <!-- Drawstring -->
+    <path d="M90 55 L86 65"/>
+    <path d="M110 55 L114 65"/>
+    <!-- Side slit detail -->
+    <line x1="50" y1="95" x2="55" y2="95"/>
+    <line x1="150" y1="95" x2="145" y2="95"/>
+    <!-- Small swoosh on left leg -->
+    <path d="M65 90 Q75 82 85 88"/>
+  </g>
+  <text x="100" y="160" text-anchor="middle" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12" font-weight="500">Nike Shorts</text>
+</svg>

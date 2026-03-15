@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect x="4" y="4" width="192" height="192" rx="16" ry="16" fill="#1e293b"/>
+  <!-- Running shoe -->
+  <g stroke="#3b82f6" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Sole -->
+    <path d="M38 132 Q43 137 55 138 L148 138 Q158 138 162 132 L164 128 Q165 124 160 122 L48 122 Q40 122 38 128 Z"/>
+    <!-- Upper shoe body -->
+    <path d="M48 122 Q46 106 54 96 L78 82 Q88 77 98 80 L142 92 Q157 97 160 122"/>
+    <!-- Asics stripes -->
+    <path d="M70 118 L85 98"/>
+    <path d="M82 118 L97 98"/>
+    <path d="M94 118 L109 100"/>
+    <!-- Collar -->
+    <path d="M54 96 Q57 89 67 86 L78 82"/>
+    <!-- Tongue -->
+    <path d="M78 82 Q82 72 90 70 Q96 72 98 80"/>
+  </g>
+  <text x="100" y="170" text-anchor="middle" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12" font-weight="500">Asics Kayano</text>
+</svg>

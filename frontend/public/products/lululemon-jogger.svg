@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect x="4" y="4" width="192" height="192" rx="16" ry="16" fill="#1e293b"/>
+  <!-- Jogger pants -->
+  <g stroke="#ef4444" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Waistband -->
+    <path d="M65 38 Q100 34 135 38"/>
+    <path d="M65 44 Q100 40 135 44"/>
+    <!-- Left leg -->
+    <path d="M65 44 L60 80 L58 120 Q58 145 68 148 L78 148 Q82 145 80 140 L82 120 L88 80 L100 50"/>
+    <!-- Right leg -->
+    <path d="M135 44 L140 80 L142 120 Q142 145 132 148 L122 148 Q118 145 120 140 L118 120 L112 80 L100 50"/>
+    <!-- Crotch seam -->
+    <path d="M100 50 L100 70"/>
+    <!-- Drawstring -->
+    <path d="M92 38 L88 48"/>
+    <path d="M108 38 L112 48"/>
+    <!-- Side seam details -->
+    <line x1="62" y1="70" x2="62" y2="90"/>
+    <line x1="138" y1="70" x2="138" y2="90"/>
+    <!-- Cuff elastic lines -->
+    <path d="M68 146 L78 146"/>
+    <path d="M122 146 L132 146"/>
+  </g>
+  <text x="100" y="174" text-anchor="middle" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11" font-weight="500">Lululemon Jogger</text>
+</svg>
